@@ -1,0 +1,117 @@
+[
+  {
+    "id": "1",
+    "name": "Samsung Galaxy s24",
+    "price": 2000,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "createdAt": "Jun 23, 2024"
+  },
+  {
+    "id": "2",
+    "name": "samsung f22",
+    "price": 231,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "createdAt": "Aug 25, 2024"
+  },
+  {
+    "id": "3",
+    "name": "redmi",
+    "price": 23,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "createdAt": "Aug 25, 2024"
+  },
+  {
+    "id": "4",
+    "name": "redmi 9 ",
+    "price": 236,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "createdAt": "Aug 25, 2024"
+  },
+  {
+    "id": "5",
+    "name": "Denen stebilizer",
+    "price": 403,
+    "category": "Electronic",
+    "brand": "no bran",
+    "createdAt": "Aug 25, 2024"
+  },
+  {
+    "id": "6",
+    "name": "Mouse",
+    "price": 99,
+    "category": "Electronics",
+    "brand": "Jedel",
+    "createdAt": "Aug 27, 2024"
+  },
+  {
+    "id": "7",
+    "name": "Iphone",
+    "price": 1499,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "createdAt": "Aug 28, 2024"
+  },
+  {
+    "id": "8",
+    "name": "Ceiling Fan",
+    "price": 500,
+    "category": "Electronics",
+    "brand": "Orient",
+    "createdAt": "Aug 28, 2024"
+  },
+  {
+    "id": "9",
+    "name": "Samsung Galaxy s24",
+    "price": 65,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "createdAt": "Aug 28, 2024"
+  },
+  {
+    "id": "10",
+    "name": "Face Serum",
+    "price": 55,
+    "category": "Skincare",
+    "brand": "Juas",
+    "createdAt": "Aug 28, 2024"
+  },
+  {
+    "id": "11",
+    "name": "Iphone13",
+    "category": "smartphones",
+    "brand": "Apple",
+    "price": "$333"
+  },
+  {
+    "id": "12",
+    "name": "Redmi13",
+    "category": "smartphones",
+    "brand": "Xoami",
+    "price": "$444"
+  },
+  {
+    "id": "13",
+    "name": "dell latitude 5400",
+    "category": "laptops",
+    "brand": "dell",
+    "price": "$999"
+  },
+  {
+    "id": "14",
+    "name": "Himalayan face wash",
+    "category": "skin care",
+    "brand": "Himalayan",
+    "price": "$40"
+  },
+  {
+    "id": "15",
+    "name": "Pulser 220",
+    "category": "Bike",
+    "brand": "Bazaz",
+    "price": "$4000"
+  }
+]
