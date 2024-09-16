@@ -30,7 +30,7 @@ app.use(logger);
 app.use(cookieParser());
 
 app.use(cors({
-  origin:"https://localhost:3000"
+  origin:process.env.APP_URL
 }))
 
 const PORT = process.env.PORT;
